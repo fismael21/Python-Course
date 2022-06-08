@@ -7,8 +7,10 @@ extra_cheese = input("Do you want extra cheese? Y or N: ")
 # Small Pizza: $15
 # Medium Pizza: $20
 # Large Pizza: $25
+
 # Pepperoni for Small Pizza: +$2
 # Pepperoni for Medium or Large Pizza: +$3
+
 # Extra cheese for any size pizza: + $1
 
 smallPrice = 15
@@ -17,7 +19,7 @@ largePrice = 25
 
 #Write your code below this line 👇
 
-#Small pizza
+#SMALL PIZZA---------------------------------------------------------
 if size == "S":
   if add_pepperoni == "Y":
     #Pizza + pepperoni + extra cheese
@@ -28,10 +30,15 @@ if size == "S":
     elif extra_cheese == "N":
       smallPrice += 2
       print(f"Your final bill is: ${smallPrice}")
-  #Just the price for small pizza
+  #Pizza + extra cheese
   elif add_pepperoni == "N":
-    print(f"Your final bill is: ${smallPrice}")
-# Medium pizza
+    if extra_cheese == "Y":
+      smallPrice = smallPrice + 1
+      print(f"Your final bill is: ${smallPrice}")
+      #Just the price for small pizza
+    elif extra_cheese == "N":
+      print(f"Your final bill is: ${smallPrice}")
+#MEDIUM PIZZA--------------------------------------------------------
 elif size == "M":
   if add_pepperoni == "Y":
     #Pizza + pepperoni + extra cheese
@@ -42,10 +49,15 @@ elif size == "M":
     elif extra_cheese == "N":
       mediumPrice += 3
       print(f"Your final bill is: ${mediumPrice}")
-  #Just the price for medium pizza
+  #Pizza + extra cheese
   elif add_pepperoni == "N":
-    print(f"Your final bill is: ${mediumPrice}")
-#Large pizza
+    if extra_cheese == "Y":
+      smallPrice = mediumPrice + 1
+      print(f"Your final bill is: ${mediumPrice}")
+      #Just the price for medium pizza
+    elif extra_cheese == "N":
+      print(f"Your final bill is: ${mediumPrice}")
+#LARGE PIZZA---------------------------------------------------------
 elif size == "L":
   if add_pepperoni == "Y":
     #Pizza + pepperoni + extra cheese
@@ -56,8 +68,13 @@ elif size == "L":
     elif extra_cheese == "N":
       largePrice += 3
       print(f"Your final bill is: ${largePrice}")
-  #Just the price for large pizza
+  #Pizza + extra cheese
   elif add_pepperoni == "N":
-    print(f"Your final bill is: ${largePrice}")
+    if extra_cheese == "Y":
+      smallPrice = largePrice + 1
+      print(f"Your final bill is: ${largePrice}")
+      #Just the price for medium pizza
+    elif extra_cheese == "N":
+      print(f"Your final bill is: ${largePrice}")
 else: 
   print("Sorry, you must input S, M, or L.")
