@@ -1,14 +1,24 @@
 # Python-Course
 
-<div align="center">
+<a href="#"><img src="https://github.com/fismael21/fismael21/blob/main/img/background_2/Background_Pack_2_6.png" alt="python"/></a>
 
-<a href="#"><img src="https://github.com/fismael21/Python-Course/blob/master/img/Cover.png" alt="cover" height="auto" width="500"/><img><a/>
+<div align="center">
 
 </div>
 
-**100 Days of Code: The Complete Python Pro Bootcamp for 2022.** Master Python by building 100 projects in 100 days. Learn data science, automation, 
-build websites, games and apps! Course created by [Dr. Angela Yu](https://github.com/angelabauer).
+I'm currently taking a **Python course** called **100 Days of Code: The Complete Python Pro Bootcamp for 2022** from Udemy. It is a course created by [Dr. Angela Yu](https://github.com/angelabauer). In order to organize all the **code challenges** and **activities** that the course involves I decided to create this GitHub repository. If you find some piece of code that may help you in school, your job, or that you just find interesting, **feel free to take it**. I will try to organize all the activities and code challenges that I do the best way possible.
 
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
+### Contact Information
+
+### Contact Me
+
+<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="60" height="60"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="60" height="60"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="60" height="60"/></a>
+
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
+Master Python by building 100 projects in 100 days. Learn data science, automation,  build websites, games and apps! Course created by 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
   
 ## Beginner
