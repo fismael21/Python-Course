@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="#"><img src="https://github.com/fismael21/Python-Course/blob/master/img/Cover.png" alt="cover" height="auto" width="600"/><img><a/>
+<a href="#"><img src="https://github.com/fismael21/Python-Course/blob/master/img/Cover.png" alt="cover" height="auto" width="500"/><img><a/>
 
 </div>
 
