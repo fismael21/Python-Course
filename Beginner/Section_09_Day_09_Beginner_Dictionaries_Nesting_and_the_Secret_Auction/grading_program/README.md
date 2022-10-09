@@ -46,6 +46,7 @@ At the **end** of your program, the print statement will show the final `student
 
 ```python
 
+#Dictionary
 student_scores = {
   "Harry": 81,
   "Ron": 78,
@@ -54,6 +55,30 @@ student_scores = {
   "Neville": 62,
 }
 
+#Empty dictionary
+student_grades = {}
+
+#This function return a string (new string value)
+def getCal(value):
+  if(value >= 91 and value <= 100):
+    return "Outstanding"
+
+  if(value >= 81 and value <= 90):
+    return "Exceeds Expectations"
+
+  if(value >= 71 and value <= 80):
+    return "Acceptable"
+
+  if(value <= 70):
+    return "Fail"
+
+  return 0;
+
+#We copy the keys to the new dictionary, but with new values
+for key in student_scores:
+  student_grades[key] = getCal(student_scores[key])
+
+#Printing new dictionary
 print(student_grades)
 
 ```
