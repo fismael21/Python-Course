@@ -12,11 +12,11 @@ I'm currently taking a **Python course** called **100 Days of Code: The Complete
 
 ### Contact Information
 
-### Contact Me
-
 <a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="60" height="60"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="60" height="60"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="60" height="60"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
+### Description of the Course
 
 Master Python by building 100 projects in 100 days. Learn data science, automation,  build websites, games and apps! Course created by 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
