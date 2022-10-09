@@ -61,7 +61,7 @@ def add_new_country(country, visits, cities):
 #Calling the function
 add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 
-#Printing lists
+#Printing list
 print(travel_log)
 
 ```
