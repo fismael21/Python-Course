@@ -33,7 +33,7 @@ def getCal(value):
   if(value <= 70):
     return "Fail"
 
-  return 0;
+  return "Error";
 
 #We copy the keys to the new dictionary, but with new values
 for key in student_scores:
