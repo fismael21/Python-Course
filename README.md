@@ -7,7 +7,7 @@
 </div>
 
 **100 Days of Code: The Complete Python Pro Bootcamp for 2022.** Master Python by building 100 projects in 100 days. Learn data science, automation, 
-build websites, games and apps! Course created by [Dr.Angela Yu](https://github.com/angelabauer).
+build websites, games and apps! Course created by [Dr. Angela Yu](https://github.com/angelabauer).
 
 ## Beginner
 
@@ -22,7 +22,7 @@ build websites, games and apps! Course created by [Dr.Angela Yu](https://github.
 
 - Day 05 - Beginner - [Python Loops](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_05_Day_05_Beginner_Python_Loops) ✔
 
-- Day 06 - Beginner - Python Functions & Karel ✔
+- Day 06 - Beginner - [Python Functions & Karel](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_06_Day_06_Beginner_Python_Functions_and_Karel) ✔
 
 - Day 07 - Beginner - [Hangman](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_07_Day_07_Beginner_Hangman) ✔
 
@@ -87,3 +87,48 @@ build websites, games and apps! Course created by [Dr.Angela Yu](https://github.
 - Day 57 - 
 
 ## Advanced
+
+- Day 57 -
+- Day 58 -
+- Day 59 -
+- Day 60 -
+- Day 61 -
+- Day 62 -
+- Day 63 -
+- Day 64 -
+- Day 65 -
+- Day 66 -
+- Day 67 -
+- Day 68 -
+- Day 69 -
+- Day 70 -
+- Day 71 -
+- Day 72 -
+- Day 73 -
+- Day 74 -
+- Day 75 -
+- Day 76 -
+- Day 77 -
+- Day 78 -
+- Day 79 -
+- Day 80 -
+- Day 81 -
+- Day 82 -
+- Day 83 -
+- Day 84 -
+- Day 85 -
+- Day 86 -
+- Day 87 -
+- Day 88 -
+- Day 89 -
+- Day 90 -
+- Day 91 -
+- Day 92 -
+- Day 93 -
+- Day 94 -
+- Day 95 -
+- Day 96 -
+- Day 97 -
+- Day 98 -
+- Day 99 -
+- Day 100 -
