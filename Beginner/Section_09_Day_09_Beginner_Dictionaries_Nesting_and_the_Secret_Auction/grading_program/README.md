@@ -41,3 +41,21 @@ If in doubt as to why your code is not doing what you expected, you can always p
 At the **end** of your program, the print statement will show the final `student_scores` dictionary, do not change this.
 
 ![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
+## Solution
+
+```python
+
+student_scores = {
+  "Harry": 81,
+  "Ron": 78,
+  "Hermione": 99,
+  "Draco": 74,
+  "Neville": 62,
+}
+
+print(student_grades)
+
+```
+
+![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
