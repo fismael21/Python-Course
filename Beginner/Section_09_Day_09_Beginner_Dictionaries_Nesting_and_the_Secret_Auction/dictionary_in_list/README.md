@@ -34,6 +34,7 @@ add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 
 ```python
 
+#List
 travel_log = [
 {
   "country": "France",
@@ -47,7 +48,20 @@ travel_log = [
 },
 ]
 
+#This function adds a dictionary to the list
+def add_new_country(country, visits, cities):
+  new_country = {}
+
+  new_country["country"] = country
+  new_country["visits"] = visits
+  new_country["cities"] = cities
+
+  travel_log.append(new_country)
+
+#Calling the function
 add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
+
+#Printing lists
 print(travel_log)
 
 ```
