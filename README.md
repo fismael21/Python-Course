@@ -2,13 +2,15 @@
 
 <div align="center">
 
-<a href="#"><img src="https://github.com/fismael21/Python-Course/blob/master/img/Cover.png" alt="cover" height="360" width="auto"/><img><a/>
+<a href="#"><img src="https://github.com/fismael21/Python-Course/blob/master/img/Cover.png" alt="cover" height="auto" width="600"/><img><a/>
 
 </div>
 
 **100 Days of Code: The Complete Python Pro Bootcamp for 2022.** Master Python by building 100 projects in 100 days. Learn data science, automation, 
 build websites, games and apps! Course created by [Dr. Angela Yu](https://github.com/angelabauer).
 
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+  
 ## Beginner
 
 ### Day 1st - 14th
@@ -40,6 +42,8 @@ build websites, games and apps! Course created by [Dr. Angela Yu](https://github
 
 - Day 14 - Beginner - Higher Lower Game Project
 
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+  
 ## Intermediate
 
 - Day 15 - 
@@ -86,6 +90,8 @@ build websites, games and apps! Course created by [Dr. Angela Yu](https://github
 - Day 56 - 
 - Day 57 - 
 
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+  
 ## Advanced
 
 - Day 57 -
@@ -132,3 +138,5 @@ build websites, games and apps! Course created by [Dr. Angela Yu](https://github
 - Day 98 -
 - Day 99 -
 - Day 100 -
+  
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
