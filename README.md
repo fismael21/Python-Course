@@ -1,24 +1,43 @@
 # Python-Course
 
+<div align="center">
+
+<a href="#"><img src="https://github.com/fismael21/Python-Course/blob/master/img/Cover.png" alt="cover" height="360" width="auto"/><img><a/>
+
+</div>
+
 **100 Days of Code: The Complete Python Pro Bootcamp for 2022.** Master Python by building 100 projects in 100 days. Learn data science, automation, 
 build websites, games and apps! Course created by [Dr.Angela Yu](https://github.com/angelabauer).
 
 ## Beginner
 
 ### Day 1st - 14th
-- Day 01 - Beginner - Working with Variables in Python to Manage Data ✔
-- Day 02 - Beginner - Understanding Data Types and How to Manipulate Strings ✔
-- Day 03 - Beginner - Control Flow and Logical Operators ✔
-- Day 04 - Beginner - Randomization and Python Lists ✔
-- Day 05 - Beginner - Python Loops ✔
+- Day 01 - Beginner - [Working with Variables in Python to Manage Data](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_01_Day_01_Beginner_Working_with_Variables_in_Python_to_Manage_Data) ✔
+
+- Day 02 - Beginner - [Understanding Data Types and How to Manipulate Strings](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_02_Day_02_Beginner_Understanding_Data_Types_and_How_to_Manipulate_Strings) ✔
+
+- Day 03 - Beginner - [Control Flow and Logical Operators](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_03_Day_03_Beginner_Control_Flow_and_Logical_Operators) ✔
+
+- Day 04 - Beginner - [Randomization and Python Lists](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_04_Day_04_Beginner_Randomization_and_Python_Lists) ✔
+
+- Day 05 - Beginner - [Python Loops](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_05_Day_05_Beginner_Python_Loops) ✔
+
 - Day 06 - Beginner - Python Functions & Karel ✔
-- Day 07 - Beginner - Hangman ✔
-- Day 08 - Beginner - Function Parameters and Ceaser Cipher ✔
-- Day 09 - Beginner - Dictionaries, Nesting and Secret Auction
+
+- Day 07 - Beginner - [Hangman](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_07_Day_07_Beginner_Hangman) ✔
+
+- Day 08 - Beginner - [Function Parameters and Ceaser Cipher](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_08_Day_08_Beginner_Function_Parameters_and_Caesar_Cipher) ✔
+
+- Day 09 - Beginner - [Dictionaries, Nesting and Secret Auction](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_09_Day_09_Beginner_Dictionaries_Nesting_and_the_Secret_Auction) ✔
+
 - Day 10 - Beginner - Functions with Outputs
+
 - Day 11 - Beginner - The Blackjack Capstone Project
+
 - Day 12 - Beginner - Scope & Number Guessing Game
+
 - Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
+
 - Day 14 - Beginner - Higher Lower Game Project
 
 ## Intermediate
