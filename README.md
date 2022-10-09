@@ -38,7 +38,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 
 - Day 07 - Beginner - [Hangman](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_07_Day_07_Beginner_Hangman) ✔
 
-- Day 08 - Beginner - [Function Parameters and Ceaser Cipher](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_08_Day_08_Beginner_Function_Parameters_and_Caesar_Cipher) ✔
+- Day 08 - Beginner - [Function Parameters and Caeser Cipher](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_08_Day_08_Beginner_Function_Parameters_and_Caesar_Cipher) ✔
 
 - Day 09 - Beginner - [Dictionaries, Nesting and Secret Auction](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_09_Day_09_Beginner_Dictionaries_Nesting_and_the_Secret_Auction) ✔
 
