@@ -34,11 +34,11 @@ This is the scoring criteria:
 
 ## Hint
 
-Remember that looping through a Dictionary will only give you the **keys** and not the values.
+1. Remember that looping through a Dictionary will only give you the **keys** and not the values.
 
-If in doubt as to why your code is not doing what you expected, you can always print out the intermediate values.
+2. If in doubt as to why your code is not doing what you expected, you can always print out the intermediate values.
 
-At the **end** of your program, the print statement will show the final `student_scores` dictionary, do not change this.
+3. At the **end** of your program, the print statement will show the final `student_scores` dictionary, do not change this.
 
 ![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
