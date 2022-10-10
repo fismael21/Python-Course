@@ -1,7 +1,7 @@
 # Python-Course
 
 <div align="center">
-<img src="img/Background_Pack_2_6.png" alt="python" width="480" height="auto"/>
+<img src="img/python.svg" alt="python" width="240" height="240"/>
 </div>
 
 I'm currently taking a **Python course** called **100 Days of Code: The Complete Python Pro Bootcamp for 2022** from Udemy. It is a course created by [Dr. Angela Yu](https://github.com/angelabauer). In order to organize all the **code challenges** and **activities** that this course involves, I decided to create this GitHub repository. If you find some piece of code that may help you, **feel free to take it**. I will try to organize all the activities and code challenges that I do the best way possible.
