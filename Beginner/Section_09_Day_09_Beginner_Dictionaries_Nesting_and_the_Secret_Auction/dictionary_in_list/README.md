@@ -18,7 +18,7 @@ add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 
 **DO NOT** modify the `travel_log` directly. You need to create a function that modifies it.
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../../img/Line.png)
 
 ## Hint
 
@@ -28,7 +28,7 @@ add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 
 3. Feel free to choose your own parameter names.
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../../img/Line.png)
 
 ## Solution
 
@@ -66,4 +66,4 @@ print(travel_log)
 
 ```
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../../img/Line.png)

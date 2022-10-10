@@ -20,7 +20,7 @@ This is the scoring criteria:
 >
 > Scores 70 or lower: Grade = "Fail"
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../../img/Line.png)
 
 ## Expected Output
 
@@ -30,7 +30,7 @@ This is the scoring criteria:
 
 ```
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../../img/Line.png)
 
 ## Hint
 
@@ -40,7 +40,7 @@ This is the scoring criteria:
 
 3. At the **end** of your program, the print statement will show the final `student_scores` dictionary, do not change this.
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../../img/Line.png)
 
 ## Solution
 
@@ -83,4 +83,4 @@ print(student_grades)
 
 ```
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../../img/Line.png)
