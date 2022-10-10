@@ -6,7 +6,7 @@
 
 > [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) are sometimes found in other languages as “associative memories” or “associative arrays”. Unlike sequences, which are indexed by a range of numbers, dictionaries are indexed by keys, which can be any immutable type; strings and numbers can always be keys.
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../img/Line.png)
 
 ## Example of Dictionaries
 
@@ -34,7 +34,7 @@ print(programming_dictionary_2[2])
 
 ```
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../img/Line.png)
 
 ## Output
 
@@ -45,10 +45,10 @@ A function is a piece of code that you can easily call over and over again.
 
 ```
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../img/Line.png)
 
 ### Code Example
 
 [Grading Program](https://github.com/fismael21/Python-Course/tree/master/Beginner/Section_09_Day_09_Beginner_Dictionaries_Nesting_and_the_Secret_Auction/grading_program)
 
-![Line](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![Line](../../img/Line.png)
