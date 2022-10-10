@@ -6,9 +6,9 @@
 
 </div>
 
-I'm currently taking a **Python course** called **100 Days of Code: The Complete Python Pro Bootcamp for 2022** from Udemy. It is a course created by [Dr. Angela Yu](https://github.com/angelabauer). In order to organize all the **code challenges** and **activities** that the course involves I decided to create this GitHub repository. If you find some piece of code that may help you in school, your job, or that you just find interesting, **feel free to take it**. I will try to organize all the activities and code challenges that I do the best way possible.
+I'm currently taking a **Python course** called **100 Days of Code: The Complete Python Pro Bootcamp for 2022** from Udemy. It is a course created by [Dr. Angela Yu](https://github.com/angelabauer). In order to organize all the **code challenges** and **activities** that this course involves, I decided to create this GitHub repository. If you find some piece of code that may help you, **feel free to take it**. I will try to organize all the activities and code challenges that I do the best way possible.
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
 
 ### Contact Information
 
