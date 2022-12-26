@@ -1,25 +1,5 @@
 # Python-Course
 
-<div align="center">
-<img src="img/python.svg" alt="python" width="240" height="240"/>
-</div>
-
-I'm currently taking a **Python course** called **100 Days of Code: The Complete Python Pro Bootcamp for 2022** from Udemy. It is a course created by [Dr. Angela Yu](https://github.com/angelabauer). In order to organize all the **code challenges** and **activities** that this course involves, I decided to create this GitHub repository. If you find some piece of code that may help you, **feel free to take it**. I will try to organize all the activities and code challenges that I do the best way possible.
-
-![BackGround](img/Line.png)
-
-## Contact Information
-
-<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="img/email.png" alt="email" width="60" height="60"/></a><a href="https://github.com/fismael21" target="_blank"><img src="img/github.png" alt="github" width="60" height="60"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="img/linkedin.png" alt="linkedin" width="60" height="60"/></a>
-
-![BackGround](img/Line.png)
-
-## Description of the Course
-
-Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
-
-![BackGround](img/Line.png)
-
 ## Beginner
 
 ### Day 1st - 14th
